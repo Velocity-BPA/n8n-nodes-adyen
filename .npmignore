@@ -1,0 +1,32 @@
+# Source files
+credentials/
+nodes/
+index.ts
+tsconfig.json
+
+# Development
+.eslintrc.js
+.prettierrc
+.gitignore
+test/
+scripts/
+coverage/
+
+# IDE
+.idea/
+.vscode/
+
+# Git
+.git/
+.gitignore
+
+# Docs (keep README)
+GITHUB_COMMANDS.md
+PROJECT_SUMMARY.md
+PROJECT_DESCRIPTION.txt
+
+# Misc
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
